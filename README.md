@@ -39,7 +39,9 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_key
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the application.
+Open [
+http://luxury-yeot-a49b3b.netlify.app](
+http://luxury-yeot-a49b3b.netlify.app) to view the application.
 
 ## 🏗️ Project Structure
 
